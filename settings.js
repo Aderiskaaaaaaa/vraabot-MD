@@ -16,11 +16,11 @@ global.APIKeys = {
 }
 
 // Owner
-global.owner = ['6283808840711','6283808840711','6283808840711']
-global.ownernomer = '6283808840711'
-global.premium = ['6283808840711']
-global.ownername = 'KIKI VZ'
-global.botname = 'VraaBotz'
+global.owner = ['62895338334350','62895338334450','62895338334350']
+global.ownernomer = '62895338334350'
+global.premium = ['62895338334350']
+global.ownername = 'Yuuzy VZ'
+global.botname = 'YuuzyMDBotz'
 global.footer = '2022 - kiki vz ><'
 global.email = 'vraakeren@gmail.com'
 global.ig = 'https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ'
